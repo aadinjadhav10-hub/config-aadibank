@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to aadibank acounts releated local APis"
+  message: "Welcome to aadibank acounts releated local APis v2"
   contactDetails:
     name: "Jhon -Devloper"
     email: "jhon12@gmail.com"
