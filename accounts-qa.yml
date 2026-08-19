@@ -7,7 +7,7 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to aadibank acounts releated  QA local APis"
+  message: "Welcome to aadibank acounts releated  QA webhook local APis"
   contactDetails:
     name: "Raj-saxena -QA lead "
     email: "Raj21@gmail.com"
